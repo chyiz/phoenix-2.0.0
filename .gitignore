@@ -1,4 +1,14 @@
 *.swp
+*.tmp
 
 *.a
+*.o
 
+
+*.rej
+*.orig
+
+*.log
+
+*.options
+dmt_out
